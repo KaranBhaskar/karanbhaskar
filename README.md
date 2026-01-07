@@ -1,4 +1,41 @@
-## Hi there 👋
+# 👋 Hi, I’m Karan Bhaskar
+
+🎓 I’m a **Computer Science & Mathematics student at Ontario Tech University (Toronto)**.  
+🛠️ I enjoy building **end-to-end software systems**, automating workflows, and turning ideas into real, working products.  
+🚀 I’m currently **seeking Software Engineering internships**, where I can learn fast, contribute meaningfully, and build impactful tech.
+
+---
+
+## 🧠 What I’m Interested In
+- Backend & API development  
+- Automation and developer tooling  
+- Applying mathematical thinking to software design  
+- Building reliable, real-world systems (not just demos)
+
+---
+
+## 🛠️ Tech I’ve Worked With
+- **Languages:** Python, JavaScript, Java, C++, SQL  
+- **Frameworks & Libraries:** Node.js, Express, React, Tailwind CSS  
+- **Databases:** PostgreSQL, MongoDB  
+- **Cloud & DevOps:** AWS (EC2), Git, GitHub, Linux  
+- **Tools & Services:** Selenium, Twilio, Cloudinary, Clerk Authentication
+
+---
+
+## 💡 Why Me
+I care about **understanding how things work**, not just making them run.  
+I enjoy projects that involve **real constraints**—authentication, automation, APIs, and data—because that’s where software becomes interesting.
+
+---
+
+## 📫 Let’s Connect
+- GitHub: https://github.com/karanbhaskar  
+- LinkedIn: https://linkedin.com/in/karanbhaskarr  
+
+---
+**"The best way to predict the future is to create it." — Lincoln, Kay, Bezos…**
+
 
 <!--
 **KaranBhaskar/karanbhaskar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
