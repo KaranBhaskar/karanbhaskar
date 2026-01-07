@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 What I’m Interested In
+## 🧠 What I’m working on
 - Backend & API development  
 - Automation and developer tooling  
 - Applying mathematical thinking to software design  
@@ -14,24 +14,12 @@
 
 ---
 
-## 🛠️ Tech I’ve Worked With
-- **Languages:** Python, JavaScript, Java, C++, SQL  
+## 🛠️ Technical Skills
+- **Languages:** Python, JavaScript, C++, Java, SQL  
 - **Frameworks & Libraries:** Node.js, Express, React, Tailwind CSS  
-- **Databases:** PostgreSQL, MongoDB  
+- **Databases:** PostgreSQL, MongoDB, Redis  
 - **Cloud & DevOps:** AWS (EC2), Git, GitHub, Linux  
-- **Tools & Services:** Selenium, Twilio, Cloudinary, Clerk Authentication
 
----
-
-## 💡 Why Me
-I care about **understanding how things work**, not just making them run.  
-I enjoy projects that involve **real constraints**—authentication, automation, APIs, and data—because that’s where software becomes interesting.
-
----
-
-## 📫 Let’s Connect
-- GitHub: https://github.com/karanbhaskar  
-- LinkedIn: https://linkedin.com/in/karanbhaskarr  
 
 ---
 **"The best way to predict the future is to create it." — Lincoln, Kay, Bezos…**
